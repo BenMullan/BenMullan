@@ -4,7 +4,7 @@
                         
 			<style>
                                 
-				@import url("https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap");
+				@import url("https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&amp;display=swap");
         
                                 html, body {
                                   height: 100vh;
@@ -48,7 +48,7 @@
                                   transition: transform 0.1s;
                                 }
                                 
-                                .item-bubbles-container .item-bubble > img {
+                                .item-bubbles-container .item-bubble &gt; img {
                                   width: 350px;
                                 }
                                 
